@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /addons/product_variations.po\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2017-06-20 03:08-0400\n"
+
+msgctxt "Addons::name::product_variations"
+msgid "Product Variations [Beta]"
+msgstr ""
+
+msgctxt "Addons::description::product_variations"
+msgid "Variants of a product that comes in more than one option, such as color or size."
+msgstr ""
+
+msgctxt "Languages::product_variations.btn_generate"
+msgid "Generate product variations"
+msgstr ""
+
+msgctxt "Languages::product_variations.generating.title"
+msgid "Generating product variations: [product]"
+msgstr ""
+
+msgctxt "Languages::product_variations.generating.select_variants"
+msgid "Select variants"
+msgstr ""
+
+msgctxt "Languages::product_variations.product_type"
+msgid "Product type"
+msgstr ""
+
+msgctxt "Languages::product_variations.product_type.simple"
+msgid "Simple product"
+msgstr ""
+
+msgctxt "Languages::product_variations.product_type.variation"
+msgid "Product variation"
+msgstr ""
+
+msgctxt "Languages::product_variations.product_type.configurable"
+msgid "Configurable product"
+msgstr ""
+
+msgctxt "Languages::product_variations.parent_product"
+msgid "Parent product"
+msgstr ""
+
+msgctxt "Languages::product_variations.variations"
+msgid "Product variations"
+msgstr ""
+
+msgctxt "Languages::product_variations.variation_of_product"
+msgid "Variation of <a href=\"[url]\">[product]</a>"
+msgstr ""
+
+msgctxt "Languages::product_variations.error.product_variation_must_have_variation_options"
+msgid "The variation_options field is required for a variation product"
+msgstr ""
+
+msgctxt "Languages::product_variations.error.product_variation_must_have_parent_product"
+msgid "A product variation must have a parent product"
+msgstr ""
+
+msgctxt "Languages::product_variations.error.invalid_variation_options_array"
+msgid "The variation_options array is invalid"
+msgstr ""
+
+msgctxt "Languages::product_variations.error.product_variation_already_exists"
+msgid "A product variation with same variation_code already exists"
+msgstr ""
+
+msgctxt "Languages::product_variations.convert_to_configurable_product"
+msgid "Convert to configurable product"
+msgstr ""
+
+msgctxt "Languages::product_variations.confirm_convert_to_configurable_product"
+msgid "There is no Undo option, you Option Combinations and Forbidden combinations will be lost. Are you sure you want to process?"
+msgstr ""
+
+msgctxt "Languages::product_variations.convert_to_configurable_product_success"
+msgid "Product successfully converted"
+msgstr ""
+

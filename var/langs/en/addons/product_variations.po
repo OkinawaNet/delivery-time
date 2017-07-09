@@ -1,0 +1,81 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::product_variations"
+msgid "Product Variations [Beta]"
+msgstr "Product Variations [Beta]"
+
+msgctxt "Addons::description::product_variations"
+msgid "Variants of a product that comes in more than one option, such as color or size."
+msgstr "Variants of a product that comes in more than one option, such as color or size."
+
+msgctxt "Languages::product_variations.btn_generate"
+msgid "Generate product variations"
+msgstr "Generate product variations"
+
+msgctxt "Languages::product_variations.generating.title"
+msgid "Generating product variations: [product]"
+msgstr "Generating product variations: [product]"
+
+msgctxt "Languages::product_variations.generating.select_variants"
+msgid "Select variants"
+msgstr "Select variants"
+
+msgctxt "Languages::product_variations.product_type"
+msgid "Product type"
+msgstr "Product type"
+
+msgctxt "Languages::product_variations.product_type.simple"
+msgid "Simple product"
+msgstr "Simple product"
+
+msgctxt "Languages::product_variations.product_type.variation"
+msgid "Product variation"
+msgstr "Product variation"
+
+msgctxt "Languages::product_variations.product_type.configurable"
+msgid "Configurable product"
+msgstr "Configurable product"
+
+msgctxt "Languages::product_variations.parent_product"
+msgid "Parent product"
+msgstr "Parent product"
+
+msgctxt "Languages::product_variations.variations"
+msgid "Product variations"
+msgstr "Product variations"
+
+msgctxt "Languages::product_variations.variation_of_product"
+msgid "Variation of <a href=\"[url]\">[product]</a>"
+msgstr "Variation of <a href=\"[url]\">[product]</a>"
+
+msgctxt "Languages::product_variations.error.product_variation_must_have_variation_options"
+msgid "The variation_options field is required for a variation product"
+msgstr "The variation_options field is required for a variation product"
+
+msgctxt "Languages::product_variations.error.product_variation_must_have_parent_product"
+msgid "A product variation must have a parent product"
+msgstr "A product variation must have a parent product"
+
+msgctxt "Languages::product_variations.error.invalid_variation_options_array"
+msgid "The variation_options array is invalid"
+msgstr "The variation_options array is invalid"
+
+msgctxt "Languages::product_variations.error.product_variation_already_exists"
+msgid "A product variation with same variation_code already exists"
+msgstr "A product variation with same variation_code already exists"
+
+msgctxt "Languages::product_variations.convert_to_configurable_product"
+msgid "Convert to configurable product"
+msgstr "Convert to configurable product"
+
+msgctxt "Languages::product_variations.confirm_convert_to_configurable_product"
+msgid "There is no Undo option, you Option Combinations and Forbidden combinations will be lost. Are you sure you want to process?"
+msgstr "There is no Undo option, you Option Combinations and Forbidden combinations will be lost. Are you sure you want to process?"
+
+msgctxt "Languages::product_variations.convert_to_configurable_product_success"
+msgid "Product successfully converted"
+msgstr "Product successfully converted"

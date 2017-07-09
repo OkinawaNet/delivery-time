@@ -1,0 +1,85 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+
+msgctxt "Addons::name::boxberry"
+msgid "Boxberry"
+msgstr "Boxberry"
+
+msgctxt "Addons::description::boxberry"
+msgid "Shipping method Boxberry"
+msgstr "Shipping method Boxberry"
+
+msgctxt "Languages::boxberry.api_password"
+msgid "API token"
+msgstr "API token"
+
+msgctxt "Languages::boxberry.take_api_password"
+msgid "Boxberry get api key"
+msgstr "Boxberry get api key"
+
+msgctxt "Languages::boxberry.target_start"
+msgid "Boxberry start target code"
+msgstr "Boxberry start target code"
+
+msgctxt "Languages::carrier_boxberry"
+msgid "Boxberry"
+msgstr "Boxberry"
+
+msgctxt "Languages::boxberry.default_weight"
+msgid "Default weight (in grams)"
+msgstr "Default weight (in grams)"
+
+msgctxt "Languages::boxberry.pickup_point"
+msgid "Pick-up point"
+msgstr "Pick-up point"
+
+msgctxt "Languages::boxberry.select_pickup_point"
+msgid "Select pick-up point"
+msgstr "Select pick-up point"
+
+msgctxt "Languages::boxberry.unknown_error"
+msgid "Unknown error"
+msgstr "Unknown error"
+
+msgctxt "Languages::boxberry.enter_api_token"
+msgid "Please specify the API token in the shipping method settings."
+msgstr "Please specify the API token in the shipping method settings."
+
+msgctxt "Languages::boxberry.not_all_fields_are_filled"
+msgid "Not all of the parameters required by the Boxberry API have been specified."
+msgstr "Not all of the parameters required by the Boxberry API have been specified."
+
+msgctxt "Languages::boxberry.pickuppoint"
+msgid "Pickup point"
+msgstr "Pickup point"
+
+msgctxt "Languages::boxberry.status"
+msgid "Boxberry status"
+msgstr "Boxberry status"
+
+msgctxt "Languages::boxberry.print_label"
+msgid "Print label"
+msgstr "Print label"
+
+msgctxt "Languages::boxberry.without_status"
+msgid "Without status"
+msgstr "Without status"
+
+msgctxt "Languages::boxberry.boxberry_self"
+msgid "Delivery to a pickup point"
+msgstr "Delivery to a pickup point"
+
+msgctxt "Languages::boxberry.boxberry_self_prepaid"
+msgid "Delivery to a pickup point (without cash on delivery)"
+msgstr "Delivery to a pickup point (without cash on delivery)"
+
+msgctxt "Languages::boxberry.boxberry_courier"
+msgid "Delivery by courier"
+msgstr "Delivery by courier"
+
+msgctxt "Languages::boxberry.boxberry_courier_prepaid"
+msgid "Delivery by courier (without cash on delivery)"
+msgstr "Delivery by courier (without cash on delivery)"

@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-ru\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-ru\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /addons/boxberry.po\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2017-06-26 08:00-0400\n"
+
+msgctxt "Addons::name::boxberry"
+msgid "Boxberry"
+msgstr "Boxberry"
+
+msgctxt "Addons::description::boxberry"
+msgid "Shipping method Boxberry"
+msgstr "Способ доставки Boxberry"
+
+msgctxt "Languages::boxberry.api_password"
+msgid "API token"
+msgstr "API token"
+
+msgctxt "Languages::boxberry.take_api_password"
+msgid "Boxberry get api key"
+msgstr "Получить API token"
+
+msgctxt "Languages::boxberry.target_start"
+msgid "Boxberry start target code"
+msgstr "Код пункта приема посылок"
+
+msgctxt "Languages::carrier_boxberry"
+msgid "Boxberry"
+msgstr "Boxberry"
+
+msgctxt "Languages::boxberry.default_weight"
+msgid "Default weight (in grams)"
+msgstr "Вес по умолчанию (в граммах)"
+
+msgctxt "Languages::boxberry.pickup_point"
+msgid "Pick-up point"
+msgstr "Пункт выдачи"
+
+msgctxt "Languages::boxberry.select_pickup_point"
+msgid "Select pick-up point"
+msgstr "Выберите пункт выдачи"
+
+msgctxt "Languages::boxberry.unknown_error"
+msgid "Unknown error"
+msgstr "Неизвестная ошибка"
+
+msgctxt "Languages::boxberry.enter_api_token"
+msgid "Please specify the API token in the shipping method settings."
+msgstr "Укажитe API token в настройках способа доставки."
+
+msgctxt "Languages::boxberry.not_all_fields_are_filled"
+msgid "Not all of the parameters required by the Boxberry API have been specified."
+msgstr "Отсутствуют некоторые параметры, которые являются обязательными в API Boxberry."
+
+msgctxt "Languages::boxberry.pickuppoint"
+msgid "Pickup point"
+msgstr "Пункт выдачи"
+
+msgctxt "Languages::boxberry.status"
+msgid "Boxberry status"
+msgstr "Статус в Boxberry"
+
+msgctxt "Languages::boxberry.print_label"
+msgid "Print label"
+msgstr "Распечатать этикетку"
+
+msgctxt "Languages::boxberry.without_status"
+msgid "Without status"
+msgstr "Без статуса"
+
+msgctxt "Languages::boxberry.boxberry_self"
+msgid "Delivery to a pickup point"
+msgstr "Доставка до пункта выдачи"
+
+msgctxt "Languages::boxberry.boxberry_self_prepaid"
+msgid "Delivery to a pickup point (without cash on delivery)"
+msgstr "Доставка до пункта выдачи (без наложенного платежа)"
+
+msgctxt "Languages::boxberry.boxberry_courier"
+msgid "Delivery by courier"
+msgstr "Курьерская доставка"
+
+msgctxt "Languages::boxberry.boxberry_courier_prepaid"
+msgid "Delivery by courier (without cash on delivery)"
+msgstr "Курьерская доставка (без наложенного платежа)"
+

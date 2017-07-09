@@ -1,0 +1,161 @@
+.ty-geolocation {
+    margin: 4px 0px 0px;
+    text-align: left;
+}
+
+.ty-geolocation-head-city {
+    font-size: 14px;
+
+    a {
+        color: darken(@base, 40%);
+        border-bottom: 1px dotted darken(@base, 40%);
+        white-space: nowrap;
+    }
+}
+
+.ty-geolocation-city {
+    color: darken(@base, 40%);
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 1em;
+
+    label {
+        margin-bottom: 10px;
+    }
+}
+
+.ty-table-cities {
+    width: 100%;
+    display:block;
+    max-height: 300px;
+    overflow: auto;
+    tbody {
+        display: inline-block;
+        width: 100%;
+        overflow: auto;
+    }
+}
+
+.ty-table-cities__item {
+    vertical-align: top;
+}
+
+.ty-button-select-cities {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+.ui-autocomplete {
+    .ui-menu-item {
+        background: transparent;
+        padding: 3px 6px;
+        box-sizing: border-box;
+        &.ui-state-focus {
+            border: none;
+            background: transparent;
+            background-color: lighten(@base, 40%);
+        }
+    }
+}
+
+.ty-geo_title {
+    font-size: 17px;
+    font-weight: bold;
+    display: block;
+}
+
+.ty-geo_map {
+    height: 360px;
+    margin-top: 40px;
+}
+
+.ty-table_geolocation {
+    width: 100%;
+    margin-top: 30px;
+    border: 0px solid @base;
+    border-width: 0px 0px 0px 0px;
+    border-bottom: none;
+}
+
+.ty-block-geolocation {
+    margin: 5px 0 30px 0;
+    margin-top: 5px;
+    position: relative;
+    display: inline-flex;
+}
+
+.ty-block-geolocation_list {
+    position: relative;
+    float: left;
+    margin-right: 20px;
+    min-height: 300px;
+}
+
+.ty-block-geolocation_map {
+    min-height: 300px;
+    min-width: 300px;
+}
+
+.ty-geolocation_list_cities {
+    overflow-y: scroll;
+    height: 300px;
+}
+
+.ty-geo_shipping__item {
+    padding: 7px 0 0 0;
+    margin-bottom: 0px;
+    color: darken(@base, 30%);
+}
+
+.ty-geo_data_shipping__item {
+    padding: 0 0 7px;
+    margin-bottom: 0px;
+}
+
+.ty-geo_additional_title {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.ty-product-bigpicture__sidebar-bottom .ty-geo_shipping__name {
+    width: 100%;
+    float: left;
+}
+
+.ty-product-bigpicture__sidebar-bottom .ty-geo-shipping__wrapper {
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #dddfdf;
+    box-shadow: 0 -1px 0 #dddfdf, 0 1px 0 #fff;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.ty-product-bigpicture__sidebar-bottom .ty-geo-payment__wrapper {
+    border-bottom: 1px solid #dddfdf;
+    box-shadow: 0 1px 0 #fff;
+    padding-bottom: 20px;
+}
+
+.ty-product-block__left {
+    .ty-geo_shipping__item {
+        float: left;
+        width: 100%;
+        &:last-child {
+            padding-bottom: 20px;
+        }
+
+        .ty-geo_shipping__name {
+            float: left;
+            width: 200px;
+            color: black;
+        }
+        .ty-control-group__label, .ty-geo_delivery_time {
+            color: darken(@base, 30%);
+            float: left;
+            padding: 0px 10px 0px 0px;
+        }    
+    }
+    
+
+}

@@ -1,0 +1,430 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /addons/newsletters.po\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2017-05-31 16:00-0400\n"
+
+msgctxt "Addons::name::newsletters"
+msgid "Newsletters"
+msgstr "Bulletin d'information"
+
+msgctxt "Addons::description::newsletters"
+msgid "Lets you configure newsletter sending"
+msgstr "Vous permet de configurer l’envoi de la newsletter"
+
+msgctxt "Languages::newsletters_menu_description"
+msgid "Create and send newsletters to your customer."
+msgstr "Créer et envoyer des newsletters à votre client."
+
+msgctxt "Languages::news_plain"
+msgid "Plain"
+msgstr "Uni"
+
+msgctxt "Languages::text_signup_for_subscriptions"
+msgid "Sign up for our newsletters!"
+msgstr "Inscrivez-vous pour nos newsletters!"
+
+msgctxt "Languages::tmpl_subscription"
+msgid "Newsletters: subscription form"
+msgstr "Inscription à la newsletter"
+
+msgctxt "Languages::unsubscribe_link"
+msgid "Unsubscribe link"
+msgstr "Lien de désinscription"
+
+msgctxt "Languages::ne_add_subscribers_from_users"
+msgid "Add subscribers from the list of users"
+msgstr "Ajouter des abonnés depuis la liste utilisateurs"
+
+msgctxt "Languages::ne_warning_subscr_email_exists"
+msgid "<b>[email]</b> is already in the subscribers list"
+msgstr "Cette e-mail <b>[email]</b> est déjà dans la liste des abonnés"
+
+msgctxt "Languages::warning_subscribers_import"
+msgid "Some mailing lists from the input file could not be found in the database. Certain imported subscribers will be left unassigned."
+msgstr "Certaines listes de diffusion du fichier d’entrée est introuvable dans la base de données. Certains abonnés importés seront laissés non attribuées."
+
+msgctxt "Languages::subscribers_menu_item_text"
+msgid "Subscribers"
+msgstr "Abonnés"
+
+msgctxt "Languages::block_mailing_lists"
+msgid "Newsletter subscription"
+msgstr "Inscription à la newsletter"
+
+msgctxt "Languages::block_mailing_lists_description"
+msgid "Email field for newsletter subscription"
+msgstr "Champ d’email pour l’inscription à la newsletter"
+
+msgctxt "Languages::privileges.view_newsletters"
+msgid "View newsletters"
+msgstr "Voir les newsletters"
+
+msgctxt "Languages::privileges.manage_newsletters"
+msgid "Manage newsletters"
+msgstr "Gérer la newsletter"
+
+msgctxt "Languages::warning_newsletter_no_recipients"
+msgid "Newsletter hasn't been sent because no recipients were found matching the selected criteria."
+msgstr "La newsletter n'a pas été envoyée car aucun destinataire n'a été trouvé correspondant au critère sélectionné."
+
+msgctxt "Languages::text_newsletter_sent"
+msgid "The newsletter(s) have been sent successfully."
+msgstr "Les newsletters ont été envoyées avec succès."
+
+msgctxt "Languages::email_cannot_be_empty"
+msgid "E-mail cannot be empty"
+msgstr "L'email ne peut pas etre videl\""
+
+msgctxt "Languages::sending_email_to"
+msgid "Sending email to [email]..."
+msgstr "Envoyer email a {email}..."
+
+msgctxt "Languages::text_subscriber_added"
+msgid "Your e-mail has been successfully added to our free e-mail updates list"
+msgstr "Votre email a ete ajoutee avec succes a notre liste de emails actualisees"
+
+msgctxt "Languages::error_email_already_subscribed"
+msgid "Your e-mail is already subscribed."
+msgstr "Votre email est déjà dans notre base."
+
+msgctxt "Languages::text_subscriber_removed"
+msgid "Your e-mail has been successfully removed from our free e-mail updates list"
+msgstr "Votre email a été enlevé avec succès de notre newsletter"
+
+msgctxt "Languages::text_subscriber_activated"
+msgid "Your email has been successfully activated"
+msgstr "Votre email a été activé avec succès"
+
+msgctxt "Languages::link_message_for_test_letter"
+msgid "The link will be displayed in a live newsletter"
+msgstr "Ce lien sera affiche dans une lettre de nouvelles actuelle"
+
+msgctxt "Languages::newsletters"
+msgid "Newsletters"
+msgstr "Letttres de nouvelles"
+
+msgctxt "Languages::autoresponders"
+msgid "Autoresponders"
+msgstr "Repondeurs automatiques"
+
+msgctxt "Languages::campaigns"
+msgid "Campaigns"
+msgstr "Campagnes"
+
+msgctxt "Languages::sent"
+msgid "Sent"
+msgstr "Envoye"
+
+msgctxt "Languages::subscribers_num"
+msgid "Number of subscribers"
+msgstr "Nombre de membres souscrits"
+
+msgctxt "Languages::editing_mailing_list"
+msgid "Editing mailing list"
+msgstr "Edition de liste de emails"
+
+msgctxt "Languages::from_name"
+msgid "From name"
+msgstr "De nom"
+
+msgctxt "Languages::from_email"
+msgid "From email"
+msgstr "De courriel"
+
+msgctxt "Languages::reply_to"
+msgid "Reply to"
+msgstr "Repondre a"
+
+msgctxt "Languages::register_autoresponder"
+msgid "Confirmation email"
+msgstr "Confirmation d'email"
+
+msgctxt "Languages::no_autoresponder"
+msgid "No autoresponder"
+msgstr "Pas de repondeur automatique"
+
+msgctxt "Languages::show_on_checkout"
+msgid "Show at checkout"
+msgstr "Faites voir au controle"
+
+msgctxt "Languages::addons.newsletters.show_on_registration_and_profile"
+msgid "Show on the Registration and Profile Details pages"
+msgstr "Afficher sur les pages des Details du Profile d''Enregistrement"
+
+msgctxt "Languages::show_on_separate_page"
+msgid "Show on separate page"
+msgstr "Afficher sur pages separees"
+
+msgctxt "Languages::campaign_stats"
+msgid "Campaign statistics"
+msgstr "Statistiques de campagne"
+
+msgctxt "Languages::add_campaign"
+msgid "Add campaign"
+msgstr "Ajouter campagne"
+
+msgctxt "Languages::new_campaign"
+msgid "New campaign"
+msgstr "Nouvelle Campagne"
+
+msgctxt "Languages::newsletter_templates"
+msgid "Newsletter templates"
+msgstr "Modeles de lettres de nouvelles"
+
+msgctxt "Languages::newsletter_autoresponders"
+msgid "Newsletter autoresponders"
+msgstr "Repondeurs automatiques de lettres de nouvelles"
+
+msgctxt "Languages::subject"
+msgid "Subject"
+msgstr "Sujet"
+
+msgctxt "Languages::add_newsletter"
+msgid "Add newsletter"
+msgstr "Ajouter lettre de nouvelles"
+
+msgctxt "Languages::add_template"
+msgid "Add template"
+msgstr "Ajouter modele"
+
+msgctxt "Languages::add_autoresponder"
+msgid "Add autoresponder"
+msgstr "Ajouter repondeur automatique"
+
+msgctxt "Languages::more_subjects"
+msgid "Random subjects (one per line)"
+msgstr "Sujets au hazard (un par ligne)"
+
+msgctxt "Languages::body_html"
+msgid "HTML body"
+msgstr "Corps du HTML"
+
+msgctxt "Languages::no_template"
+msgid "No template"
+msgstr "Aucun modele"
+
+msgctxt "Languages::load"
+msgid "Load"
+msgstr "Charger"
+
+msgctxt "Languages::campaign"
+msgid "Campaign"
+msgstr "Campagne"
+
+msgctxt "Languages::send_to"
+msgid "Send to"
+msgstr "Envoyer a"
+
+msgctxt "Languages::add_recipients_from_users"
+msgid "Add recipients from users"
+msgstr "Ajouter des recepteurs d'utilisateurs"
+
+msgctxt "Languages::customers_with_abandoned"
+msgid "Customers with abandoned"
+msgstr "Des clients avec abandones"
+
+msgctxt "Languages::cart_or_wishlist"
+msgid "Cart or Wishlist"
+msgstr "Carte ou Liste de Voie"
+
+msgctxt "Languages::which_is"
+msgid "which is"
+msgstr "qui est"
+
+msgctxt "Languages::days_old"
+msgid "days old"
+msgstr "depuis"
+
+msgctxt "Languages::send_to_test_email"
+msgid "Send to test email"
+msgstr "Envoyer a tester l'email"
+
+msgctxt "Languages::save_and_send"
+msgid "Save and send"
+msgstr "Sauver et envoyer"
+
+msgctxt "Languages::newsletter"
+msgid "Newsletter"
+msgstr "Lettre de nouvelles"
+
+msgctxt "Languages::newsletter_template"
+msgid "Newsletter template"
+msgstr "Modele de lettres de nouvellles"
+
+msgctxt "Languages::newsletter_autoresponder"
+msgid "Newsletter autoresponder"
+msgstr "Reponse automatique a la lettre de nouvelles"
+
+msgctxt "Languages::mailing_list"
+msgid "Mailing list"
+msgstr "Liste de emails"
+
+msgctxt "Languages::confirmed"
+msgid "Confirmed"
+msgstr "Confirme"
+
+msgctxt "Languages::subscribed_to"
+msgid "Subscribed to [num] lists"
+msgstr "Registre a liste {num}"
+
+msgctxt "Languages::subscribed"
+msgid "Subscribed"
+msgstr "Souscrit"
+
+msgctxt "Languages::text_success_subscription"
+msgid "You have been successfully subscribed to our free e-mail updates and promotions!"
+msgstr "Vous etes enregistre avec succes dans nos emails actualisees et de promotion!"
+
+msgctxt "Languages::text_unsubscribe_instructions"
+msgid "We respect your privacy and do not send unsolicited e-mail to users who have not requested correspondence. You have received this e-mail because you requested to receive our free updates and promotions.<br /><br /> If you wish to unsubscribe, please follow the link below:"
+msgstr "Nous Vous traitons avec confidence et nous n'envoyeons pas d'emalls inconnues a utilisateurs qui n'ont pas demande correspondence. Vous avez recu cette email car Vous avez demande de recevoir nos actualisations et promotions gratuit. Si Vous voulez annuler votre souscription, suivez le llien au dessous:"
+
+msgctxt "Languages::updates_subscription"
+msgid "updates and promotions subscription"
+msgstr "actualisation s et promotions enregistrees (soscrites)"
+
+msgctxt "Languages::ult_shared_with"
+msgid "Shared with:"
+msgstr "Partage avec:"
+
+msgctxt "Languages::tt_addons_newsletters_views_mailing_lists_update_from_email"
+msgid "Email of a sender."
+msgstr "Email d\"envoyeur."
+
+msgctxt "Languages::tt_addons_newsletters_views_mailing_lists_update_from_name"
+msgid "Name of a sender (e.g. company name)."
+msgstr "Nom d\"expediteur (par> ex> nom de societe)."
+
+msgctxt "Languages::tt_addons_newsletters_views_mailing_lists_update_reply_to"
+msgid "Email to send replies to."
+msgstr "Une email pour envoyer des reponses."
+
+msgctxt "Languages::tt_addons_newsletters_views_newsletters_update_more_subjects"
+msgid "If several subjects are specified, email subject is randomly picked from this list."
+msgstr "Si quelques sujets sont definis, le sujet d'email est accede au hazard de cette liste."
+
+msgctxt "Languages::tt_addons_newsletters_views_newsletters_update_users"
+msgid "If the message text contains the unsubscribe link, it will be empty for these users."
+msgstr "Si le texte du message contient le lien d'annulation, il sea vide pour ces utilisateurs."
+
+msgctxt "Languages::add_mailing_lists"
+msgid "Add mailing list"
+msgstr "Ajouter une liste de emails"
+
+msgctxt "Languages::manage_subscribers"
+msgid "Manage subscribers"
+msgstr "Gerer les membres enregistres"
+
+msgctxt "Languages::new_mailing_lists"
+msgid "New mailing list"
+msgstr "Nouvelle liste de emails"
+
+msgctxt "Languages::newsletters.new_subscribers"
+msgid "New subscribers"
+msgstr "De nouveaux membres souscrits"
+
+msgctxt "SettingsSections::newsletters::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::newsletters::newsletters_per_pass"
+msgid "Newsletters sent per step"
+msgstr "Des lettres de nouvelles envoyees par pas"
+
+msgctxt "SettingsOptions::newsletters::elm_advanced_mailing_server_options"
+msgid "Advanced mailing server options"
+msgstr "Options de serveur de emails avancee"
+
+msgctxt "SettingsOptions::newsletters::mailer_send_method"
+msgid "Method of sending e-mails"
+msgstr "Methode d'envoyer des emails"
+
+msgctxt "SettingsOptions::newsletters::elm_smtp_server_settings"
+msgid "SMTP server settings"
+msgstr "Parametres du serveur SMTP"
+
+msgctxt "SettingsOptions::newsletters::mailer_smtp_host"
+msgid "SMTP host"
+msgstr "Hote SMTP"
+
+msgctxt "SettingsOptions::newsletters::mailer_smtp_username"
+msgid "SMTP username"
+msgstr "Nom d'utilisateur SMTP"
+
+msgctxt "SettingsOptions::newsletters::mailer_smtp_password"
+msgid "SMTP password"
+msgstr "Mot de passe SMTP"
+
+msgctxt "SettingsOptions::newsletters::mailer_smtp_ecrypted_connection"
+msgid "Use Encrypted Connection"
+msgstr "Utiliser Connexion Encryptee"
+
+msgctxt "SettingsVariants::newsletters::mailer_smtp_ecrypted_connection::none"
+msgid "None"
+msgstr "Nulle"
+
+msgctxt "SettingsVariants::newsletters::mailer_smtp_ecrypted_connection::tls"
+msgid "TLS"
+msgstr "TLS"
+
+msgctxt "SettingsVariants::newsletters::mailer_smtp_ecrypted_connection::ssl"
+msgid "SSL"
+msgstr "SSL"
+
+msgctxt "SettingsOptions::newsletters::mailer_smtp_auth"
+msgid "Use SMTP authentication"
+msgstr "Utiliser authentification SMTP"
+
+msgctxt "SettingsVariants::newsletters::mailer_send_method::smtp"
+msgid "via SMTP server"
+msgstr "a travers serveur SMTP"
+
+msgctxt "SettingsVariants::newsletters::mailer_send_method::mail"
+msgid "via php mail function"
+msgstr "par fonction d'email php"
+
+msgctxt "SettingsVariants::newsletters::mailer_send_method::default"
+msgid "use default settings"
+msgstr "utiliser des parametres defaut"
+
+msgctxt "SettingsSections::newsletters::promotions"
+msgid "Promotions"
+msgstr "Promotions"
+
+msgctxt "SettingsOptions::newsletters::coupon"
+msgid "Choose a promotion whose promo code will be given at subscription"
+msgstr "Choisir une promotion de laquelle le code promo sera donne lors souscription"
+
+msgctxt "Languages::subscribers_promo_subject"
+msgid "Thank you for subscribing! Use the coupon code [coupon] in our special offer \"[promotion]\"."
+msgstr "Merci d'avoir souscrit! Utiliser le code du coupon dans notre offre speciale."
+
+msgctxt "Languages::subscribers_no_promo"
+msgid "No promotion"
+msgstr "Pas de promotion"
+
+msgctxt "Languages::promotion_cond_subscribed"
+msgid "Customer is subscribed"
+msgstr "Le client est souscrit"
+
+msgctxt "Languages::addons.newsletters.email_exists_in_list"
+msgid "<b>[email]</b> is already in the mailing list"
+msgstr "<b>{email}</b> est deja dans la liste des emails"
+
+msgctxt "Languages::email_template.newsletters_newsletter"
+msgid "Newsletter"
+msgstr "Lettre de nouvelles"
+
+msgctxt "Languages::email_template.newsletters_promotion"
+msgid "Newsletters: promotion"
+msgstr "Promotion des lettres de nouvelles"
+

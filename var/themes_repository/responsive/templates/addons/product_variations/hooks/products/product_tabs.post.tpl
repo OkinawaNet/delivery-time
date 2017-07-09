@@ -1,0 +1,1 @@
+<!--product_tabs_{$product.product_id}--></div>

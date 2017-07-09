@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Swedish\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: sv-SE\n"
+"X-Crowdin-File: /addons/image_zoom.po\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2017-02-27 11:00-0500\n"
+
+msgctxt "Addons::name::image_zoom"
+msgid "Image zoom"
+msgstr "Bild zoom"
+
+msgctxt "Addons::description::image_zoom"
+msgid "Shows zoomed image on product image hover"
+msgstr "Visar förstorad produktbild genom att placera muspekaren på bilden"
+
+msgctxt "SettingsSections::image_zoom::general"
+msgid "General"
+msgstr "Allmänt"
+
+msgctxt "SettingsOptions::image_zoom::cz_opacity"
+msgid "Opacity"
+msgstr "Opacitet"
+
+msgctxt "SettingsOptions::image_zoom::cz_animation_time"
+msgid "Animation time"
+msgstr "Animationstid"
+
+msgctxt "SettingsOptions::image_zoom::cz_tint_color_picker"
+msgid "Color"
+msgstr "Färg"
+
+msgctxt "SettingsOptions::image_zoom::cz_zoom_position"
+msgid "Zoom position"
+msgstr "Zoom placering"
+
+msgctxt "SettingsOptions::image_zoom::cz_zoom_size_mode"
+msgid "Zoom size mode"
+msgstr "Zoom storleksläge"
+
+msgctxt "SettingsOptions::image_zoom::cz_caption_position"
+msgid "Caption position"
+msgstr "Placering bildtext"
+
+msgctxt "SettingsOptions::image_zoom::cz_ease_time"
+msgid "Ease time"
+msgstr "Lättnad tid"
+
+msgctxt "SettingsOptions::image_zoom::cz_zoom_fly_out"
+msgid "Zoom fly out"
+msgstr "Zoom flyg ut"
+
+msgctxt "SettingsTooltips::image_zoom::cz_opacity"
+msgid "Opacity of tint 0-1. If zero, no tint will be visible."
+msgstr "Opacitet av färgton 0-1. Om noll, kommer ingen färgton att synas."
+
+msgctxt "SettingsTooltips::image_zoom::cz_animation_time"
+msgid "Duration of the animation effects in milliseconds."
+msgstr "Varaktighet för animeringseffekter i millisekunder."
+
+msgctxt "SettingsTooltips::image_zoom::cz_tint_color_picker"
+msgid "Color to use for the tint effect. Example: #ffffff."
+msgstr "Färg för färgtonseffekt. Exempel: #ffffff."
+
+msgctxt "SettingsTooltips::image_zoom::cz_zoom_position"
+msgid "Specifies position of zoom window. If numeric (0-15), position is relative to page image as shown by the following key (blue squares represent zoom window). If a string is supplied, value will be used as a selector to pinpoint the exact position and size of an element in the page. If the value \"inside\" is specified, the zoom image will appear inside the page image.<br /><br /><img src=\"design/backend/media/images/addons/image_zoom/zoom-positions.png\" />"
+msgstr "Anger zoomfönstrets placering. Siffran (0-15) är placeringen i förhållande till bilden som visas, blå rutor representerar zoomfönstret. Om en sträng tillförs kommer värdet att användas som en väljare för att ange exakt placering och storlek för elementet på sidan. Om \"I bilden\" anges kommer zoombilden att visas inuti bilden.<br><br><img src=\"design/backend/media/images/addons/image_zoom/zoom-positions.png\" />"
+
+msgctxt "SettingsTooltips::image_zoom::cz_zoom_size_mode"
+msgid "Defines the rule for sizing the zoom window and lens."
+msgstr "Definierar regeln för dimensionering av zoomfönster och lins."
+
+msgctxt "SettingsTooltips::image_zoom::cz_caption_position"
+msgid "Position of caption, \"top\" or \"bottom\"."
+msgstr "Textplacering, \"Topp\" eller \"Botten\"."
+
+msgctxt "SettingsTooltips::image_zoom::cz_ease_time"
+msgid "Number of milliseconds of mouse easing movement of zoom image. The bigger the number, the more easing. Zero means no easing."
+msgstr "Antal millisekunder för musrörelse innan lättnad av zoombild. Ju högre tal, desto mer lättnad. Noll betyder ingen lättnad."
+
+msgctxt "SettingsTooltips::image_zoom::cz_zoom_fly_out"
+msgid "Turns 'flying' zoom animation on or off."
+msgstr "Slår på eller av \"flygande\" zoom animation."
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::0"
+msgid "Zoom position №0"
+msgstr "Placering 0"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::1"
+msgid "Zoom position №1"
+msgstr "Placering 1"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::2"
+msgid "Zoom position №2"
+msgstr "Placering 2"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::3"
+msgid "Zoom position №3"
+msgstr "Placering 3"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::4"
+msgid "Zoom position №4"
+msgstr "Placering 4"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::5"
+msgid "Zoom position №5"
+msgstr "Placering 5"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::6"
+msgid "Zoom position №6"
+msgstr "Placering 6"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::7"
+msgid "Zoom position №7"
+msgstr "Placering 7"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::8"
+msgid "Zoom position №8"
+msgstr "Placering 8"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::9"
+msgid "Zoom position №9"
+msgstr "Placering 9"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::10"
+msgid "Zoom position №10"
+msgstr "Placering 10"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::11"
+msgid "Zoom position №11"
+msgstr "Placering 11"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::12"
+msgid "Zoom position №12"
+msgstr "Placering 12"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::13"
+msgid "Zoom position №13"
+msgstr "Placering 13"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::14"
+msgid "Zoom position №14"
+msgstr "Placering 14"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::15"
+msgid "Zoom position №15"
+msgstr "Placering 15"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_position::inside"
+msgid "Inside position"
+msgstr "I bilden"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_size_mode::image"
+msgid "Image"
+msgstr "Bild"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_size_mode::lens"
+msgid "Lens"
+msgstr "Lins"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_size_mode::zoom"
+msgid "Zoom"
+msgstr "Zooma"
+
+msgctxt "SettingsVariants::image_zoom::cz_zoom_size_mode::full"
+msgid "Full"
+msgstr "Fullständig"
+
+msgctxt "SettingsVariants::image_zoom::cz_caption_position::top"
+msgid "Top"
+msgstr "Topp"
+
+msgctxt "SettingsVariants::image_zoom::cz_caption_position::bottom"
+msgid "Bottom"
+msgstr "Botten"
+

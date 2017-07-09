@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /addons/product_variations.po\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2017-06-22 08:01-0400\n"
+
+msgctxt "Addons::name::product_variations"
+msgid "Product Variations [Beta]"
+msgstr "Вариации товаров [Beta]"
+
+msgctxt "Addons::description::product_variations"
+msgid "Variants of a product that comes in more than one option, such as color or size."
+msgstr "Варианты товара, включающие в себя более одной опции, таких как цвет или размер."
+
+msgctxt "Languages::product_variations.btn_generate"
+msgid "Generate product variations"
+msgstr "Сгенерировать вариации товара"
+
+msgctxt "Languages::product_variations.generating.title"
+msgid "Generating product variations: [product]"
+msgstr "Генерация вариаций товара: [product]"
+
+msgctxt "Languages::product_variations.generating.select_variants"
+msgid "Select variants"
+msgstr "Выберите варианты"
+
+msgctxt "Languages::product_variations.product_type"
+msgid "Product type"
+msgstr "Тип товара"
+
+msgctxt "Languages::product_variations.product_type.simple"
+msgid "Simple product"
+msgstr "Простой товар"
+
+msgctxt "Languages::product_variations.product_type.variation"
+msgid "Product variation"
+msgstr "Вариация товара"
+
+msgctxt "Languages::product_variations.product_type.configurable"
+msgid "Configurable product"
+msgstr "Настраиваемый товар"
+
+msgctxt "Languages::product_variations.parent_product"
+msgid "Parent product"
+msgstr "Товар-родитель"
+
+msgctxt "Languages::product_variations.variations"
+msgid "Product variations"
+msgstr "Вариации товара"
+
+msgctxt "Languages::product_variations.variation_of_product"
+msgid "Variation of <a href=\"[url]\">[product]</a>"
+msgstr "Вариация <a href=\"[url]\">[product]</a>"
+
+msgctxt "Languages::product_variations.error.product_variation_must_have_variation_options"
+msgid "The variation_options field is required for a variation product"
+msgstr "Поле variation_options является обязательным для вариации товара"
+
+msgctxt "Languages::product_variations.error.product_variation_must_have_parent_product"
+msgid "A product variation must have a parent product"
+msgstr "У вариации товара должен быть товар-родитель"
+
+msgctxt "Languages::product_variations.error.invalid_variation_options_array"
+msgid "The variation_options array is invalid"
+msgstr "Массив variation_options невалидный"
+
+msgctxt "Languages::product_variations.error.product_variation_already_exists"
+msgid "A product variation with same variation_code already exists"
+msgstr "Вариация товара с тем же значением variation_code уже существует"
+
+msgctxt "Languages::product_variations.convert_to_configurable_product"
+msgid "Convert to configurable product"
+msgstr "Преобразовать в настраиваемый товар"
+
+msgctxt "Languages::product_variations.confirm_convert_to_configurable_product"
+msgid "There is no Undo option, you Option Combinations and Forbidden combinations will be lost. Are you sure you want to process?"
+msgstr "Данное действие нельзя отменить, созданные вами комбинации товаров и недоступные комбинации будут утеряны. Вы уверены, что хотите продолжить?"
+
+msgctxt "Languages::product_variations.convert_to_configurable_product_success"
+msgid "Product successfully converted"
+msgstr "Товар был успешно преобразован"
+
