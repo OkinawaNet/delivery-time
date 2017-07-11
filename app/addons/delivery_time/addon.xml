@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>delivery_time</id>
+    <version>1.0</version>
+    <priority>4200</priority>
+    <status>active</status>
+    <position>0</position>
+    <default_language>en</default_language>
+    <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
+    <queries>
+        <item>ALTER TABLE `?:products` ADD `delivery_time` smallint(4)</item>
+        <item for="uninstall">ALTER TABLE  `?:products` DROP `delivery_time`</item>
+
+        <item>ALTER TABLE `?:orders` ADD `delivery_timestamp` int(11) unsigned NOT NULL default '0'</item>
+        <item for="uninstall">ALTER TABLE  `?:orders` DROP `delivery_timestamp`</item>
+    </queries>
+</addon>

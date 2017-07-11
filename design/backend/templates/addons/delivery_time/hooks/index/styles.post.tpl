@@ -1,0 +1,1 @@
+{style src="addons/delivery_time/styles.less"}

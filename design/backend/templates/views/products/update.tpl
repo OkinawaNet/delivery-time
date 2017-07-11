@@ -438,6 +438,7 @@
             {** Shipping settings section **}
             <div id="content_shippings" class="hidden"> {* content shippings *}
                 {include file="views/products/components/products_shipping_settings.tpl"}
+                {hook name="products:shipping_extra"}{/hook}
             </div> {* /content shippings *}
             {** /Shipping settings section **}
 
